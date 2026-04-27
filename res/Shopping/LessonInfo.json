@@ -1,0 +1,61 @@
+{
+  "id": "Shopping",
+  "resName": "Shopping",
+  "version": "1.0.0",
+  "isNew": false,
+  "level": 5,
+  "difficulty": {
+    "en": "Level 5",
+    "en-US": "Level 5",
+    "zh-Hans": "5 级",
+    "zh-Hant-HK": "5 級",
+    "zh-Hant-TW": "5 級",
+    "ja": "レベル 5",
+    "ja-JP": "レベル 5"
+  },
+  "title": {
+    "en": "Shopping",
+    "zh-Hans": "购物",
+    "zh-Hant-TW": "購物",
+    "zh-Hant-HK": "購物",
+    "ja": "ショッピング"
+  },
+  "description": {
+    "en": "From bargains to check-out—every phrase you need to shop like a pro.",
+    "zh-Hans": "砍价到刷卡，秒懂购物全场景口语",
+    "zh-Hant-TW": "殺價到刷卡，秒懂購物全場景口語",
+    "zh-Hant-HK": "殺價到刷卡，秒懂購物全場景口語",
+    "ja": "値切りからレジまで―買い物フレーズ完全攻略"
+  },
+  "source": {
+    "name": "LingRain",
+    "url": "https://numilo.github.io/res"
+  },
+  "allLanguages": [
+    "en-US",
+    "ja-JP",
+    "zh-Hans"
+  ],
+  "targetLanguages": [
+    "ja-JP",
+    "zh-Hans",
+    "en-US"
+  ],
+  "baseLanguages": [
+    "en-US",
+    "ja-JP",
+    "zh-Hans"
+  ],
+  "sentenceCount": 200,
+  "coverURL": "https://numilo.github.io/res/Shopping/cover.png",
+  "packageURL": "https://numilo.github.io/res/Shopping/Shopping.zip",
+  "packageBytes": 65313125,
+  "packageSHA256": "f0f7c44ae8f190377b8aa2ed2453d7f936f20f4abbc6a60d866ba1dc4a98453c",
+  "groupName": {
+    "en": "Talk",
+    "zh-Hans": "会话",
+    "zh-Hant-TW": "會話",
+    "zh-Hant-HK": "會話",
+    "ja": "会話"
+  }
+}

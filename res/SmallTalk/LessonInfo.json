@@ -1,0 +1,59 @@
+{
+  "id": "SmallTalk",
+  "resName": "SmallTalk",
+  "version": "1.0.0",
+  "isNew": true,
+  "level": 3,
+  "difficulty": {
+    "en": "Level 3",
+    "en-US": "Level 3",
+    "zh-Hans": "3 级",
+    "zh-Hant-HK": "3 級",
+    "zh-Hant-TW": "3 級",
+    "ja": "レベル 3",
+    "ja-JP": "レベル 3"
+  },
+  "title": {
+    "en": "Small Talk Starters",
+    "zh-Hans": "英语寒暄入门",
+    "zh-Hant-TW": "英語寒暄入門",
+    "zh-Hant-HK": "英語寒暄入門",
+    "ja": "スモールトーク入門"
+  },
+  "description": {
+    "en": "Stop saying just 'Hi' — learn to start conversations naturally and connect with others with ease.",
+    "zh-Hans": "别再只说 Hi，学会自然开场，轻松聊出朋友。",
+    "zh-Hant-TW": "別再只說 Hi，學會自然開場，輕鬆聊出朋友。",
+    "zh-Hant-HK": "唔好再淨係講 Hi，學識自然搭訕，輕鬆打開話匣子。",
+    "ja": "「Hi」だけじゃなく、自然に会話を始めて、楽しく交流できる英語を学ぼう。"
+  },
+  "source": {
+    "name": "LingRain",
+    "url": "https://numilo.github.io/res"
+  },
+  "allLanguages": [
+    "en-US",
+    "ja-JP",
+    "zh-Hans"
+  ],
+  "targetLanguages": [
+    "en-US"
+  ],
+  "baseLanguages": [
+    "en-US",
+    "ja-JP",
+    "zh-Hans"
+  ],
+  "sentenceCount": 80,
+  "coverURL": "https://numilo.github.io/res/SmallTalk/cover.png",
+  "packageURL": "https://numilo.github.io/res/SmallTalk/SmallTalk.zip",
+  "packageBytes": 28612271,
+  "packageSHA256": "3a38461ff4c3c0e892f7b625948e4ccc7f89e80130da9798b9139ebb71f86200",
+  "groupName": {
+    "en": "Talk",
+    "zh-Hans": "会话",
+    "zh-Hant-TW": "會話",
+    "zh-Hant-HK": "會話",
+    "ja": "会話"
+  }
+}
