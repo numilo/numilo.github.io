@@ -52,7 +52,7 @@
   ],
   "sentenceCount": 80,
   "coverURL": "https://numilo.github.io/res/MovieLines/cover.png",
-  "packageURL": "https://numilo.github.io/res/MovieLines/MovieLines.zip",
+  "packageURL": "https://github.com/numilo/numilo.github.io/releases/download/movie-lines-v1.0.0/MovieLines.zip",
   "packageBytes": 27670230,
   "packageSHA256": "600f5fd610eca5931a5a0a33759aab8f14be6f92880f7c0224f1ac5c8febefda",
   "groupName": {
