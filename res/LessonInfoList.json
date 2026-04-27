@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-04-27T00:00:00Z",
+  "courses": [
+    {
+      "id": "daily-240-1",
+      "resName": "Start_1",
+      "version": "1.0.0",
+      "isNew": false,
+      "level": 1,
+      "difficulty": {
+        "en": "Beginner",
+        "zh-Hans": "初级",
+        "ja": "初級"
+      },
+      "title": {
+        "en": "Daily 240 (1)",
+        "zh-Hans": "日常240句（1）",
+        "ja": "日常240文（1）"
+      },
+      "description": {
+        "en": "Beginner-friendly dialogues...",
+        "zh-Hans": "适合初学者的日常对话...",
+        "ja": "初心者向けの日常会話..."
+      },
+      "source": {
+        "name": "LingRain",
+        "url": "https://pdu.pub"
+      },
+      "allLanguages": ["zh", "ja", "en"],
+      "targetLanguages": ["zh", "ja"],
+      "baseLanguages": ["zh", "ja", "en"],
+      "sentenceCount": 80,
+      "coverURL": "https://example.com/courses/Start_1/cover.png",
+      "packageURL": "https://example.com/courses/Start_1/Start_1-v1.0.0.zip",
+      "packageBytes": 12345678,
+      "packageSHA256": "..."
+    }
+  ]
+}
